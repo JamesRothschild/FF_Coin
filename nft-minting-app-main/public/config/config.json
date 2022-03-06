@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdD8E83a7467569bB04aCc4D64300F9D5CbDAde96",
+  "SCAN_LINK": "hhttps://mumbai.polygonscan.com/address/0xdd8e83a7467569bb04acc4d64300f9d5cbdade96",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FF Coin",
+  "SYMBOL": "FFCOIN",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ff-coin",
+  "SHOW_BACKGROUND": true
+}
